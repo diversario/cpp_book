@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1356466778 source:/home/diversario/Dropbox/Documents/Projects/C++/Exercises/8.12/main.cpp
+	"../std_lib_facilities.h"
+
+1353607332 /home/diversario/Dropbox/Documents/Projects/C++/Exercises/std_lib_facilities.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<hash_map>
+	<ext/hash_map>
+	<iomanip>
+

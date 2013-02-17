@@ -1,0 +1,34 @@
+[Global]
+CurrentProject=9.13.vpj
+[ProjectDates]
+9.13.vpj=20121228002842000
+[ActiveConfig]
+9.13.vpj=,Debug
+[TreeExpansion2]
+-@ 9.13.vpj
+  + Source Files
+  - Header Files
+  + Resource Files
+  + Bitmaps
+  + Other Files
+scroll:0
+[State]
+SCREEN: 1920 1200 375 37 1200 1008 0 0 N 0 0 0 0 946 600 0
+CWD: ../9.13
+BUFFER: BN="main.cpp"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=53543008 TL=0 MLL=0 ASE=0 LNL=1 LCF=4 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.702 CL=33 LE=0 CX=34 CY=11 WI=5 BI=16 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 947 601 0 0 M  WF=0 WT=1 ",,,"
+BUFFER: BN="main.cpp"
+VIEW: LN=.342 CL=39 LE=0 CX=44 CY=18 WI=192 BI=16 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 2
+/usr/include/c++/4.7/backward/backward_warning.h
+main.cpp
+TBCLASS: 0 0
+DEBUG: 2 0 0 0 3 0 gdb
+1runs_a[0][0]0
+1find_lcdruns_b[i][0]0
+printf
+strcpy
+std::*
+DEBUG2: 0

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1356382461 source:/home/diversario/Dropbox/Documents/Projects/C++/Drills/8.1/use.cpp
+	"my.h"
+
+1356382455 /home/diversario/Dropbox/Documents/Projects/C++/Drills/8.1/my.h
+
+1356382355 source:/home/diversario/Dropbox/Documents/Projects/C++/Drills/8.1/my.cpp
+	<iostream>
+	"my.h"
+
+1353607332 /home/diversario/Dropbox/Documents/Projects/C++/Drills/8.1/std_lib_facilities.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<hash_map>
+	<ext/hash_map>
+	<iomanip>
+

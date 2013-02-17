@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1356608770 source:/home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/main.cpp
+	"../std_lib_facilities.h"
+	"include/Library.h"
+
+1353607332 /home/diversario/Dropbox/Documents/Projects/C++/Exercises/std_lib_facilities.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<hash_map>
+	<ext/hash_map>
+	<iomanip>
+
+1356571049 source:/home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/book.cpp
+	"../std_lib_facilities.h"
+	"book.h"
+
+1356571422 /home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/book.h
+
+1356571422 /home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/include/Book.h
+
+1356606299 source:/home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/Patron.cpp
+	"../std_lib_facilities.h"
+	"include/Patron.h"
+
+1356608213 /home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/include/Patron.h
+
+1356604646 source:/home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/Date.cpp
+	"include/Date.h"
+
+1356604635 /home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/include/Date.h
+
+1356608821 source:/home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/Library.cpp
+	"include/Library.h"
+
+1356608695 /home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/include/Library.h
+	"../../std_lib_facilities.h"
+	"Date.h"
+	"Book.h"
+	"Patron.h"
+
+1356607084 source:/home/diversario/Dropbox/Documents/Projects/C++/Exercises/9.5/Book.cpp
+	"../std_lib_facilities.h"
+	"include/Book.h"
+
